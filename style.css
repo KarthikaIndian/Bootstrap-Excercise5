@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'League Gothic', sans-serif;
+
+}
+.h{
+    margin-top: 100px;
+    font-size: 60px;
+}
+.a{
+    width: 350px;
+    height: 350px;
+    margin-top: 100px;
+    background-color: blueviolet;
+}
+.line{
+    line-height: 2px;
+}
+.img{
+    width: 200px;
+    height: 480px;
+    margin-left: 85px;
+    margin-top: -45px;
+}
+.i{
+    width: 90px;
+    height: 40px;
+    border-radius: 4px;
+}
+.a1{
+    background-color: #692be2;
+    width: 100%;
+    height: 159px;
+   
+    margin-top: 100px;;
+}
+.a3{
+    width:282px;
+    height:300px;
+  margin-top: 60px;
+    background-color: blueviolet;
+}
+.a3 img{
+
+    width: 200px;
+    height: 400px;
+}
+.row .bx{
+    color:#692be2 ;
+   font-size: 50px;
+}
+.cir{
+   
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+  
+       background-image: radial-gradient(#df1189, #54326c, #252532);
+}
+.text{
+    margin-top: -539px;
+    padding-left: 40px;
+}
+.img-fluid{
+    width: 100%;
+    height: 250px;
+   
+}
+.fooder{
+    background-color: #692be2;
+}
+@media only screen and (max-width: 430px) {
+    .cir
+    {
+        width:300px;
+        width:300px;
+    }
+    .a{
+        width: 250px;
+        height: 250px;
+       
+    }
+    .img {
+        width: 154px;
+        height: 331px;
+        margin-left: 51px;
+        margin-top: -33px;
+    }
+    .a3 img {
+        width: 206px;
+       
+        margin-left: 89px;
+        height: 334px;
+}
+.a3 {
+    width: 251px;
+    height: 262px;
+    margin-top: 60px;
+    
+}
+.text{
+    margin-top: -213px;
+    padding-left: 40px;
+
+}
+}
+@media only screen and (max-width: 768px) {
+    .cir
+    {
+        width:300px;
+        width:300px;
+    }
+}
